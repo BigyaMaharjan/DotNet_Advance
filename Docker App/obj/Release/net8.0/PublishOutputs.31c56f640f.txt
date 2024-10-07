@@ -1,0 +1,5 @@
+C:\AMNIL\docket-working\App\bin\Release\net8.0\publish\DotNet.Docker.exe
+C:\AMNIL\docket-working\App\bin\Release\net8.0\publish\DotNet.Docker.dll
+C:\AMNIL\docket-working\App\bin\Release\net8.0\publish\DotNet.Docker.deps.json
+C:\AMNIL\docket-working\App\bin\Release\net8.0\publish\DotNet.Docker.runtimeconfig.json
+C:\AMNIL\docket-working\App\bin\Release\net8.0\publish\DotNet.Docker.pdb

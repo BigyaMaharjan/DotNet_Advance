@@ -1,0 +1,14 @@
+C:\AMNIL\docket-working\App\bin\Debug\net8.0\DotNet.Docker.exe
+C:\AMNIL\docket-working\App\bin\Debug\net8.0\DotNet.Docker.deps.json
+C:\AMNIL\docket-working\App\bin\Debug\net8.0\DotNet.Docker.runtimeconfig.json
+C:\AMNIL\docket-working\App\bin\Debug\net8.0\DotNet.Docker.dll
+C:\AMNIL\docket-working\App\bin\Debug\net8.0\DotNet.Docker.pdb
+C:\AMNIL\docket-working\App\obj\Debug\net8.0\DotNet.Docker.GeneratedMSBuildEditorConfig.editorconfig
+C:\AMNIL\docket-working\App\obj\Debug\net8.0\DotNet.Docker.AssemblyInfoInputs.cache
+C:\AMNIL\docket-working\App\obj\Debug\net8.0\DotNet.Docker.AssemblyInfo.cs
+C:\AMNIL\docket-working\App\obj\Debug\net8.0\DotNet.Docker.csproj.CoreCompileInputs.cache
+C:\AMNIL\docket-working\App\obj\Debug\net8.0\DotNet.Docker.dll
+C:\AMNIL\docket-working\App\obj\Debug\net8.0\refint\DotNet.Docker.dll
+C:\AMNIL\docket-working\App\obj\Debug\net8.0\DotNet.Docker.pdb
+C:\AMNIL\docket-working\App\obj\Debug\net8.0\DotNet.Docker.genruntimeconfig.cache
+C:\AMNIL\docket-working\App\obj\Debug\net8.0\ref\DotNet.Docker.dll
