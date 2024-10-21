@@ -1,0 +1,15 @@
+D:\AMNIL\New folder\EventHandle\EventHandle\bin\Debug\net8.0\EventHandle.exe
+D:\AMNIL\New folder\EventHandle\EventHandle\bin\Debug\net8.0\EventHandle.deps.json
+D:\AMNIL\New folder\EventHandle\EventHandle\bin\Debug\net8.0\EventHandle.runtimeconfig.json
+D:\AMNIL\New folder\EventHandle\EventHandle\bin\Debug\net8.0\EventHandle.dll
+D:\AMNIL\New folder\EventHandle\EventHandle\bin\Debug\net8.0\EventHandle.pdb
+D:\AMNIL\New folder\EventHandle\EventHandle\obj\Debug\net8.0\EventHandle.GeneratedMSBuildEditorConfig.editorconfig
+D:\AMNIL\New folder\EventHandle\EventHandle\obj\Debug\net8.0\EventHandle.AssemblyInfoInputs.cache
+D:\AMNIL\New folder\EventHandle\EventHandle\obj\Debug\net8.0\EventHandle.AssemblyInfo.cs
+D:\AMNIL\New folder\EventHandle\EventHandle\obj\Debug\net8.0\EventHandle.csproj.CoreCompileInputs.cache
+D:\AMNIL\New folder\EventHandle\EventHandle\obj\Debug\net8.0\EventHandle.sourcelink.json
+D:\AMNIL\New folder\EventHandle\EventHandle\obj\Debug\net8.0\EventHandle.dll
+D:\AMNIL\New folder\EventHandle\EventHandle\obj\Debug\net8.0\refint\EventHandle.dll
+D:\AMNIL\New folder\EventHandle\EventHandle\obj\Debug\net8.0\EventHandle.pdb
+D:\AMNIL\New folder\EventHandle\EventHandle\obj\Debug\net8.0\EventHandle.genruntimeconfig.cache
+D:\AMNIL\New folder\EventHandle\EventHandle\obj\Debug\net8.0\ref\EventHandle.dll
